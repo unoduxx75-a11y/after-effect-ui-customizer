@@ -6,28 +6,42 @@
   <img src="https://img.shields.io/badge/Custom%20Splash-Enabled-00C2A8?style=for-the-badge" alt="Custom splash enabled" />
 </p>
 
-> A stylish Windows utility for customizing the Adobe After Effects splash screen with built-in Nero presets or your own image.
+> Customize Adobe After Effects splash screen with built-in Nero presets or your own image.
 
 ## ✨ Overview
 
-**Nero AE Splash Master** is a simple yet powerful app that lets you personalize the Adobe After Effects startup splash screen and branding with:
+**Nero AE Splash Master** is a Windows utility made for personalizing the Adobe After Effects startup splash screen and visual branding.
 
-- 🎯 Built-in Nero artwork presets
-- 🖼️ Custom image support
-- 🪟 Easy Windows interface
-- 🔄 One-click restore to default
-- ✅ Compatibility with Adobe After Effects 2021–2026
+It allows you to:
 
-This project is made for creators who want their Adobe After Effects app to feel more personal and branded.
+- 🎯 Choose your target After Effects version
+- 🖼️ Use built-in Nero artwork presets
+- 🧩 Load your own PNG, JPG, or WebP image
+- ⚡ Apply the new splash in one click
+- ♻️ Restore the original Adobe splash anytime
+
+This project supports Adobe After Effects versions from **2021 to 2026**.
+
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/ae-splash-preview.png" alt="Adobe After Effects splash preview" width="800" />
+</p>
+
+<p align="center">
+  <img src="assets/nero-splash-master.png" alt="Nero AE Splash Master app interface" width="900" />
+</p>
+
+> Tip: Upload your screenshots into the `assets/` folder and keep the same file names above for the images to appear automatically.
 
 ## 🚀 Features
 
-- 🖼️ Upload your own PNG, JPG, or WebP custom image
-- 🎨 Choose from built-in Nero splash presets
-- 🧩 Select the target Adobe After Effects version
-- ⚡ Apply splash changes in one click
-- ♻️ Restore the original Adobe splash anytime
-- 🧠 Simple, clean, beginner-friendly UI
+- 🖼️ Upload a custom splash image from your PC
+- 🎨 Select from built-in Nero splash presets
+- 🧩 Support multiple After Effects versions
+- ⚡ One-click apply process
+- ♻️ Restore default Adobe splash screen
+- 🪟 Simple, clean desktop UI
 
 ## 🧩 Supported Versions
 
@@ -41,8 +55,8 @@ This project is made for creators who want their Adobe After Effects app to feel
 ## 🛠️ How It Works
 
 1. Open the app
-2. Choose the installed Adobe After Effects version
-3. Select a built-in Nero preset or load your own custom image
+2. Select the installed Adobe After Effects version
+3. Choose a built-in Nero preset or upload your own image
 4. Click **Apply Custom Splash**
 5. Restart Adobe After Effects to see the new splash screen
 
@@ -54,20 +68,20 @@ This project is made for creators who want their Adobe After Effects app to feel
 
 - Windows 10 or Windows 11
 - Adobe After Effects installed
-- Image file in PNG, JPG, or WebP format
+- PNG, JPG, or WebP image for custom splash use
 
 ## 📝 Notes
 
-This project is intended for visual customization and personal branding of the Adobe After Effects startup artwork.
+This tool is intended for visual customization and personal branding of the Adobe After Effects startup artwork. It provides a fast way to personalize the splash screen without manually editing files.
 
 ## 🎯 Project Purpose
 
 This app helps users:
 
-- personalize the Adobe After Effects splash screen
-- use premium-looking Nero preset artwork
-- apply custom branding with their own image
-- quickly revert to the default Adobe design
+- personalize Adobe After Effects branding
+- use built-in Nero artwork presets
+- apply custom splash visuals
+- quickly revert to the original Adobe design
 
 ## 🔗 Repository
 
