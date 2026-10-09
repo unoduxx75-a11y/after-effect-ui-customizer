@@ -24,15 +24,13 @@ This project supports Adobe After Effects versions from **2021 to 2026**.
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="assets/ae-splash-preview.png" alt="Adobe After Effects splash preview" width="800" />
-</p>
+Screenshots will appear here once they are added to the `assets/` folder.
 
-<p align="center">
-  <img src="assets/nero-splash-master.png" alt="Nero AE Splash Master app interface" width="900" />
-</p>
+Example files to place there:
+- `assets/ae-splash-preview.png`
+- `assets/nero-splash-master.png`
 
-> Tip: Upload your screenshots into the `assets/` folder and keep the same file names above for the images to appear automatically.
+> Upload your screenshots into the `assets/` folder and keep the same file names for them to show in the README automatically.
 
 ## 🚀 Features
 
